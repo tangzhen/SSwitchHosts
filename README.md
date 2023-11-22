@@ -1,4 +1,6 @@
-# SwitchHosts
+# SSwitchHosts
+
+This project is fork from [SwitchHosts](https://github.com/oldj/SwitchHosts), which migarate from Electron to Tauri.
 
 - [简体中文](README.zh_hans.md)
 - [繁體中文](README.zh_hant.md)
